@@ -1,0 +1,20 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Local chatbot database
+*.db
+*.sqlite
+*.sqlite3 
+
+# VS Code settings
+.vscode/
